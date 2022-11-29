@@ -1,6 +1,7 @@
 
 
-Hi! I'm Su-Min Lee
+Hi! I'm Su-Min Lee.
+
 I double major in computer engineering science and media technology & media contents.
 
 
