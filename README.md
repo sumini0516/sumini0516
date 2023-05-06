@@ -13,7 +13,6 @@ my blog is [https://sumini0516.tistory.com/](https://sumini0516.tistory.com/)
 
 The Catholic University of Korea, Bachelor Degree, 2019.03 ~ 2022.06
 
-The Catholic University of Korea, Mater Degree, 2022.06 ~
 
 # I'm interested in
 
