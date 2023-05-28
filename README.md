@@ -9,14 +9,6 @@ my blog is [https://sumini0516.tistory.com/](https://sumini0516.tistory.com/)
 
 ***
 
-# My experience
-
-The Catholic University of Korea, Bachelor Degree, 2019.03 ~ 2022.06
-
-
-# I'm interested in
-
-
 # My BOJ
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sumini0516)](https://solved.ac/sumini0516/)
