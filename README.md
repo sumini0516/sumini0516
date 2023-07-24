@@ -1,10 +1,4 @@
 
-
-Hi! I'm Su-Min Lee.
-
-I double major in computer engineering science and media technology & media contents.
-
-
 my blog is [https://sumini0516.tistory.com/](https://sumini0516.tistory.com/)
 
 ***
